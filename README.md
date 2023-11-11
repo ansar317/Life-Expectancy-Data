@@ -18,16 +18,6 @@ This repository contains a data science project focused on predicting life expec
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Structure
-
-- **data/:** Contains the dataset used for analysis.
-- **notebooks/:** Jupyter notebooks for data exploration, preprocessing, and model development.
-- **src/:** Source code for functions and scripts used in the project.
-- **results/:** Stores the results of the analysis, including visualizations and model performance metrics.
-
-## Dataset
-
-The dataset used in this project is sourced from [Dataset Source](insert_dataset_source_link). It includes various features such as GDP, education, healthcare, etc., for different countries, with the target variable being life expectancy.
 
 ## Data Exploration
 
